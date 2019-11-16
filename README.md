@@ -19,7 +19,8 @@ Carteira de investimentos em flutter
  ### Requisitos
  
  Passos de instalação e configuração voce encontra aqui:
- * [Flutter]https://flutter.dev/docs/get-started/install
+ * [Flutter](https://flutter.dev/docs/get-started/install)
 
  ### Se tudo der certo, ao acessar você deve ver a seguinte tela:
- ![Screenshot]()
+
+<img src="home_wallet_app_android.png" width="300" height="600">
