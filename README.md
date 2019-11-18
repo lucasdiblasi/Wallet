@@ -1,28 +1,16 @@
-# Wallet
-Carteira de investimentos em flutter
+# wallet
 
-## Funcionalidades:
+A new Flutter project.
 
-* Gráfico de investimento em carteira.
-* Saldos na tela com função de esconder valores.
-* Lista de dados de posição consolidada.
-* Gráfico de rentabilidade de carteira.
+## Getting Started
 
-## Linguagem 
+This project is a starting point for a Flutter application.
 
-* Dart.
+A few resources to get you started if this is your first Flutter project:
 
-## Framework
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
- * Flutter.
- 
- ### Requisitos
- 
- Passos de instalação e configuração voce encontra aqui:
- * [Flutter](https://flutter.dev/docs/get-started/install)
-
- ### Se tudo der certo, ao acessar você deve ver a seguinte tela:
-
-<img src="home_wallet_app_android.png" width="300" height="600">
-
-### Nas [Issues](https://github.com/AriadniAdi/Wallet/issues) voce encontra algumas ideias de melhoria que não tive tempo de desenvolver.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

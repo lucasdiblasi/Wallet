@@ -1,0 +1,20 @@
+{
+    "walletPageTitle": "Minha carteira",
+    "consolidatedPositionTitle": "Posição consolidada",
+    "investmentWalletTitle": "Carteira de investimentos",
+    "patrimonialEvolutionTitle": "Evolução patrimonial",
+    "walletProfitabilityTitle": "Rentabilidade da carteira",
+    "avaibleToInvestTitle": "Disponivel para investir",
+    "show": "Mostrar",
+    "hide": "Esconder",
+    "toSettleTitle": "A liquidar",
+    "assets": "{count} ativos",
+    "percent": "{value}%",
+    "quantity": "qtd",
+    "grossBalance": "Saldo Bruto",
+    "investmentFounds": "Fundos de Investimentos",
+    "actionsAndFuture": "Ações e Futuro",
+    "directTreasure": "Direct Treasure",
+    "fixedIncome": "Renda Fixa",
+    "privatePension": "Previdência Privada"
+}

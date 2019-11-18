@@ -1,0 +1,20 @@
+{
+    "walletPageTitle": "My wallet",
+    "consolidatedPositionTitle": "Consolidated position",
+    "investmentWalletTitle": "Investment wallet",
+    "patrimonialEvolutionTitle": "Patrimonial evolution",
+    "walletProfitabilityTitle": "Wallet profitability",
+    "avaibleToInvestTitle": "Available to invest",
+    "show": "show",
+    "hide": "hide",
+    "toSettleTitle": "To Settle",
+    "assets": "{count} assets",
+    "percent": "{value}%",
+    "quantity": "Qtd",
+    "grossBalance": "Gross Balance",
+    "investmentFounds": "Investments Founds",
+    "actionsAndFuture": "Actions and Future",
+    "directTreasure": "Tesouro Direto",
+    "fixedIncome": "Renda Fixa",
+    "privatePension": "Private Pension"
+}
